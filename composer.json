@@ -1,0 +1,7 @@
+{
+    "name": "glamka/php-simple-html-dom-parser",
+    "description": "A php based DOM parser. Forked from https://sourceforge.net/p/simplehtmldom/",
+    "homepage": "https://sourceforge.net/p/simplehtmldom/",
+    "license": "(MIT or GPL-1.0)",
+    "require": {}
+}
